@@ -66,7 +66,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/chandu17  
 - 🐳 Docker Hub: https://hub.docker.com/u/chandu17  
-- 📧 Email: chandanchandu430@gmail.com  
+- 📧 Email: chandanchandu0430@gmail.com  
 
 ---
 
